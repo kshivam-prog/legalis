@@ -1,11 +1,10 @@
-<div align="center">
+# Legalis AI Risk Scanner
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Legalis is an intelligent contract analysis tool that translates complex legal agreements into simple risk summaries.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+- **Document Scanning**: Upload .txt or .md contracts.
+- **URL Analysis**: Analyze Terms of Service or Privacy Policies directly from a URL.
+- **Risk Assessment**: Get a 0-100 risk score with categorized breakdowns (Financial, Privacy, etc.).
+- **Plain English Translations**: Complex clauses explained simply.
